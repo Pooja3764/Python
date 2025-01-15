@@ -7,10 +7,13 @@ Syntaxes:
 
 a)	for i in “Hello World”:
     print(i)
+    
 b)	for i in [1,2,3,4,5]:
     print(i)
+    
 c)	for i in (11,22,33,44,55):
     print(i)
+    
 d)	for i in {1:”one”,2:”two”:
     print(i)
 
