@@ -4,6 +4,7 @@ As for loop can print any of the Data Structure in Python like- String “ ”, 
 Hence, here it work as a chain and runs till the last element of the DS.
 
 Syntaxes:
+
 a)	for i in “Hello World”:
     print(i)
 b)	for i in [1,2,3,4,5]:
@@ -14,6 +15,7 @@ d)	for i in {1:”one”,2:”two”:
     print(i)
 
 A small Program:
+
              Alphabets= [A,B,C,D,E]
      for x in Alphabets:
          print(x)
@@ -23,6 +25,7 @@ A small Program:
 2nd Method to run the loop is  = Range(start,end,step) method in for loop
 
 Syntaxes:
+
 a)	for i in range (10):
     print(I, end=”,”)
 
