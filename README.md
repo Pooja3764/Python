@@ -14,7 +14,7 @@ b)	for i in [1,2,3,4,5]:
 c)	for i in (11,22,33,44,55):
     print(i)
     
-d)	for i in {1:”one”,2:”two”:
+d)	for i in {1:”one”,2:”two”}:
     print(i)
 
 A small Program:
